@@ -7,8 +7,8 @@ Ferramentas de controle de versão
 * CVS
 * Source Safe
 * Bazaar
-* SVN
-* Mercurial
 * Clear Case
+* SVN
+* Mercurial 
 * Git
 * Visual Studio Team Services
