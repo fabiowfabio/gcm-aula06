@@ -6,6 +6,6 @@ Ferramentas de controle de versão
 * CVS
 * Source Safe
 * SVN
-* Mercurial
+* Mercurial 
 * Perforce
 * Git
