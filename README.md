@@ -11,4 +11,4 @@ Ferramentas de controle de versão
 * SVN
 * Mercurial 
 * Git
-* Visual Studio Team Services
+* Visual Studio Team Services 
